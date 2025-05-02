@@ -1,0 +1,17 @@
+.title {
+    font-family: Monserrat;
+    font-size: 100px;
+    margin: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.option {
+    font-family: Monserrat;
+    font-size: 45px;
+    margin: 20px;
+    text-align: center;
+}
+.touchless-delivery {
+    text-decoration: underline;
+    cursor: pointer;
+}
